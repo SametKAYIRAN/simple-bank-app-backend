@@ -1,2 +1,3 @@
 # simple-bank-app-backend
-spring boot project for simple bank application backend
+Spring boot project for simple bank application backend hich uses H2 database. Just start spring boot app to run.
+
